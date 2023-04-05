@@ -1,0 +1,22 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto Light', 'Arial', sans-serif;
+    background-color: #F7C602;
+}
+
+.pokes{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 900px;
+    padding: 40px 0;
+    margin:20px;
+}
+.button-section {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 0 20px 0;
+}
